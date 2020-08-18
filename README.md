@@ -1,7 +1,7 @@
 ## FBM-134 - HACKTIVITY
 
 <p align="center">
-<img src="http://docs.google.com/uc?export=open&amp;id=1nM3zRLLXcoZZwo-JSVQcXSBE_qQytAVC"  />
+<img src="https://user-images.githubusercontent.com/66542572/90547741-2c321a80-e1b6-11ea-8314-af370a2a33ad.png"  />
 </p>
 
 ```

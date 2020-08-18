@@ -72,6 +72,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ### Download, setup, and usage For Linux
 * apt-get update && apt instal git
+* python3 -m pip install && pip3 install requests
 * git clone https://github.com/byindosecurity/FBM-134.git 
 * cd FBM-134 Extrack File unzip -p `Masukan-Code-Verifikasi` FBM-134.zip ENTER
 * Lalu Jika sudah cd FBM-134 Dan python Da-Bomb.py
@@ -81,6 +82,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ### Download, setup, and usage For Linux
 * apt-get update && apt installs git
+* python3 -m pip install && pip3 install requests
 * git clone https://github.com/byindosecurity/FBM-134.git
 * cd FBM-134 Extrack File unzip -p `Input-Code-Verification` FBM-134.zip ENTER
 * Then if you have cd FBM-134 and python Da-Bomb.py
@@ -90,12 +92,14 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ### Download, setup, and usage For Windows
 * Harus Sudah `Install Python3` Didalam Sistem Operasi Kalian
+* Harus Sudah Install pip3 Dan Module Request Python
 * Download File Zip Disini :
 * Masukan Password Dan Ketik `Python3 Da-Bomb.py` DiCMD
 * Dan Jika Berhasil , Silahkan Kalian Ketik `python3 console.py`
 
 ### Download, setup, and usage For Windows
 * Must Have `Install Python3` In Your Operating System
+* Must Have Installed Pip3 And Module Request Python
 * Download Zip File Here:
 * Enter Password And Type `Python3 Da-Bomb.py` DiCMD
 * And if successful, please type `python3 console.py`
@@ -105,6 +109,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * Download Aplikasi Termux Di playstore
 * Setelah Diinstall Buka Aplikasi Termux Lalu Ketik `pkg update` Enter - Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
 * Lalu Berikut nya ketik `pkg instal python3` Enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
+* python3 -m pip install && pip3 install requests
 * setelah Selesai Ketik `pkg install git` enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
 * setelah itu ketik `git clone https://github.com/byindosecurity/FBM-134.git`  enter Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
 * setelah itu ketik `ls` untuk melihat Directory Jika Ada Muncul Bacaan FBM-134 ketik cd FBM-134 Lalu Enter
@@ -119,6 +124,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * Download the Termux application in the playstore
 * After Installed Open the Termux Application Then Type `pkg update` Enter - If There is an Option Question Type` Y` Wait Until the Process is Complete
 * Then in the next type `pkg instal python3` Enter If there is an option, type Y Wait until the process is complete
+* python3 -m pip install && pip3 install requests
 * After Finish Type `pkg install git` enter If there is an option, type Y Wait until the process is complete
 * after that type `git clone https: // github.com / byindosecurity / FBM-134.git` enter If there is an option, type` Y` wait until the process is complete
 * after that, type `ls` to see the Directory. If there is a reading of FBM-134, type cd FBM-134 then Enter

@@ -77,7 +77,6 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * python3 -m pip install && pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git 
-* cd FBM-134 Extrack File unzip -p `Masukan-Code-Verifikasi` FBM-134.zip ENTER
 * Lalu Jika sudah cd FBM-134 Dan python Da-Bomb.py
 * Masukan Nama Sistem Operasi Kalian Untuk Install
 * Dan Jika Sudah Berhasil Install Silahkan Kalian Ketik `chmod +x console` 
@@ -88,7 +87,6 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * python3 -m pip install && pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git
-* cd FBM-134 Extrack File unzip -p `Input-Code-Verification` FBM-134.zip ENTER
 * Then if you have cd FBM-134 and python Da-Bomb.py
 * Enter your operating system name to install
 * And if you have successfully installed, please type `chmod + x console`
@@ -121,8 +119,6 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * setelah Selesai Ketik `pkg install git` enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
 * setelah itu ketik `git clone https://github.com/byindosecurity/FBM-134.git`  enter Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
 * setelah itu ketik `ls` untuk melihat Directory Jika Ada Muncul Bacaan FBM-134 ketik cd FBM-134 Lalu Enter
-* Ektrack File Zip Dengan Cara Ketik `unzip -P Masukan-Code-Verifikasi FBM-134.zip` Lalu Enter
-* Jika Sudah Berhasil `Diektrack` Silahkan Ketik `cd FBM-134`
 * setelah Itu jika Sudah Benar Silahkan Ketik `python3 Da-Bomb.py` Untuk Menginstall Nya ! 
 * Lalu Masukan Nama sistem Operasi Yang Sedang Kalian Gunakan!
 * Jika Sudah Berhasil DIinstall Silahkan Kalian Ketik `chmod +x console` Lalu Setelah Itu Ketik `./console` Dan Enter!
@@ -137,8 +133,6 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * After Finish Type `pkg install git` enter If there is an option, type Y Wait until the process is complete
 * after that type `git clone https: // github.com / byindosecurity / FBM-134.git` enter If there is an option, type` Y` wait until the process is complete
 * after that, type `ls` to see the Directory. If there is a reading of FBM-134, type cd FBM-134 then Enter
-* Ektrack Zip File by Type `unzip -P Input-Code-Verification FBM-134.zip` Then Enter
-* If `` extracted` is successful, please type `cd FBM-134`
 * After that, if it's correct, please type `python3 Da-Bomb.py` to install it!
 * Then enter the name of the operating system you are currently using!
 * If It Has Been Installed Successfully, Please Type `chmod + x console` Then After That Type`. / Console` And Enter!

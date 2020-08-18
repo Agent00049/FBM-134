@@ -1,1 +1,131 @@
-# FBM-134
+## FBM-134 - HACKTIVITY
+
+<p align="center">
+<img src="http://docs.google.com/uc?export=open&amp;id=1nM3zRLLXcoZZwo-JSVQcXSBE_qQytAVC"  />
+</p>
+
+```
+FBM-134 Is A Brutal Attack Hacking Tool That Uses an attack technique against a computer security 
+system that uses tests against all possible keys. And This Tools Serves To Perform Attacks On 
+Facebook Accounts
+```
+[![License: MIT](https://img.shields.io/badge/Check-Youtube-red.svg)](https://youtu.be/JCqup2Vmaz8)
+[![CyberSecurity Inventory](https://img.shields.io/badge/HACTIVITY-FF5050_flat.svg)](https://youtu.be/JCqup2Vmaz8)
+
+***
+
+```
+Application Features
+1.  Random Attack
+2.  Account Facebook
+3.  Tranning Attack
+4.  Mixed attack
+
+Usability Application
+1.  Brute Force
+2.  Hack Facebook
+3.  Restore Account
+4.  Test attack
+5.  Random Hack
+
+MISC
+1. buy tools , -
+2. Install Tool
+3. Run Tools
+3. Exit
+```
+## Penjelasan Tentang FBM-134
+```
+Please Check Youtube HACKTIVITY Regarding How to Hack Facebook for the process
+I have discussed the attack on the Hacktivity Channel, visit the video method
+Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
+```
+
+## Tata Cara Order Custom Banner !
+1. Tulis Konsep Tools Yang Kalian Mau
+2. DM owner Melalui Instagram @ytnaen Jika Merasa Kesulitan
+3. Tentukan Waktu Deadline e.g Minimal 2 Hari
+4. Pembayaran Bisa Melalui Apapun Disarankan Melakukan Teransaksi Melalui Aplikasi Dana
+5. Pembayaran Melalui Dana : https://link.dana.id/minta/2n4kvho674
+6. Screenshot Jika Sudah Melakukan Pembayaran , -- 
+7. Silahkan Konfirmasi order Anda melalui Instagram @ytnaen
+8. Dan Dapatkan Code Konfirmasi , Untuk Bisa Menggunakan Tools Tersebut ..
+***
+
+## Procedure for Order Custom Banner!
+1. Write the concept of the tools you want
+2. DM Owner via Instagram @ytnaen if you feel difficulties
+3. Set Deadline Time e.g. Minimum 2 Days
+4. Payment Can Be Through Anything It is recommended to make transactions through the Fund Application
+5. Payment by Fund: https://link.dana.id/minta/2n4kvho674
+6. Screenshot If You Have Made Payment, -
+7. Please confirm your order via Instagram @ytnaen
+8. And get a confirmation code, to be able to use these tools ..
+***
+
+
+![1](http://docs.google.com/uc?export=open&amp;id=1YOpw7aJhLKYen-8_X0fq4UuH9mancSbx)
+
+
+### Download, setup, and usage For Linux
+* apt-get update && apt instal git
+* git clone https://github.com/byindosecurity/FBM-134.git 
+* cd FBM-134 Extrack File unzip -p `Masukan-Code-Verifikasi` FBM-134.zip ENTER
+* Lalu Jika sudah cd FBM-134 Dan python Da-Bomb.py
+* Masukan Nama Sistem Operasi Kalian Untuk Install
+* Dan Jika Sudah Berhasil Install Silahkan Kalian Ketik `chmod +x console` 
+* Lalu Setelah Itu Ketik `./console` Dan Enter!
+
+### Download, setup, and usage For Linux
+* apt-get update && apt installs git
+* git clone https://github.com/byindosecurity/FBM-134.git
+* cd FBM-134 Extrack File unzip -p `Input-Code-Verification` FBM-134.zip ENTER
+* Then if you have cd FBM-134 and python Da-Bomb.py
+* Enter your operating system name to install
+* And if you have successfully installed, please type `chmod + x console`
+* Then After That Type `. / Console` And Enter!
+
+### Download, setup, and usage For Windows
+* Harus Sudah `Install Python3` Didalam Sistem Operasi Kalian
+* Download File Zip Disini :
+* Masukan Password Dan Ketik `Python3 Da-Bomb.py` DiCMD
+* Dan Jika Berhasil , Silahkan Kalian Ketik `python3 console.py`
+
+### Download, setup, and usage For Windows
+* Must Have `Install Python3` In Your Operating System
+* Download Zip File Here:
+* Enter Password And Type `Python3 Da-Bomb.py` DiCMD
+* And if successful, please type `python3 console.py`
+
+![1](http://docs.google.com/uc?export=open&amp;id=1WLyCHx0-8h72LbmEcqEtyBDNpyfPnXwe)
+
+
+### Download, setup, and usage For Android
+* Download Aplikasi Termux Di playstore
+* Setelah Diinstall Buka Aplikasi Termux Lalu Ketik `pkg update` Enter - Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
+* Lalu Berikut nya ketik `pkg instal python3` Enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
+* setelah Selesai Ketik `pkg install git` enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
+* setelah itu ketik `git clone https://github.com/byindosecurity/FBM-134.git`  enter Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
+* setelah itu ketik `ls` untuk melihat Directory Jika Ada Muncul Bacaan FBM-134 ketik cd FBM-134 Lalu Enter
+* Ektrack File Zip Dengan Cara Ketik `unzip -P Masukan-Code-Verifikasi FBM-134.zip` Lalu Enter
+* Jika Sudah Berhasil `Diektrack` Silahkan Ketik `cd FBM-134`
+* setelah Itu jika Sudah Benar Silahkan Ketik `python3 Da-Bomb.py` Untuk Menginstall Nya ! 
+* Lalu Masukan Nama sistem Operasi Yang Sedang Kalian Gunakan!
+* Jika Sudah Berhasil DIinstall Silahkan Kalian Ketik `chmod +x console` Lalu Setelah Itu Ketik `./console` Dan Enter!
+
+
+### Download, setup, and usage For Android
+* Download the Termux application in the playstore
+* After Installed Open the Termux Application Then Type `pkg update` Enter - If There is an Option Question Type` Y` Wait Until the Process is Complete
+* Then in the next type `pkg instal python3` Enter If there is an option, type Y Wait until the process is complete
+* After Finish Type `pkg install git` enter If there is an option, type Y Wait until the process is complete
+* after that type `git clone https: // github.com / byindosecurity / FBM-134.git` enter If there is an option, type` Y` wait until the process is complete
+* after that, type `ls` to see the Directory. If there is a reading of FBM-134, type cd FBM-134 then Enter
+* Ektrack Zip File by Type `unzip -P Input-Code-Verification FBM-134.zip` Then Enter
+* If `` extracted` is successful, please type `cd FBM-134`
+* After that, if it's correct, please type `python3 Da-Bomb.py` to install it!
+* Then enter the name of the operating system you are currently using!
+* If It Has Been Installed Successfully, Please Type `chmod + x console` Then After That Type`. / Console` And Enter!
+
+### EXIT [ ? ]
+* Tutorial Cara Menggunakan Tools Nya Bisa Kalian Check Disini : https://shorturl.at/tCLW9

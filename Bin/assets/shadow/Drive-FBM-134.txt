@@ -1,0 +1,4 @@
+# [ FB-Brute Force 1.0 -x ]
+# This is configuration File for FBM - 134
+# Mohon Perhatian Nya Untuk Tidak Mengubah Apapun Yang Ada Disini , Jika Anda Merubah Option Tersebut ! Ada Kemungkinan Akan Terjadi
+# Kepenuhan Memori Jadi Berhati Hatilah

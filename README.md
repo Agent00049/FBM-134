@@ -40,6 +40,9 @@ Please Check Youtube HACKTIVITY Regarding How to Hack Facebook for the process
 I have discussed the attack on the Hacktivity Channel, visit the video method
 Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 ```
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66542572/90547820-42d87180-e1b6-11ea-9070-22832de6a14c.png"  />
+</p>
 
 ## Tata Cara Order Custom Banner !
 1. Tulis Konsep Tools Yang Kalian Mau
@@ -63,9 +66,9 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 8. And get a confirmation code, to be able to use these tools ..
 ***
 
-
-![1](http://docs.google.com/uc?export=open&amp;id=1YOpw7aJhLKYen-8_X0fq4UuH9mancSbx)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66542572/90549172-4a991580-e1b8-11ea-8f77-e638f977355b.png"  />
+</p>
 
 ### Download, setup, and usage For Linux
 * apt-get update && apt instal git
@@ -96,8 +99,6 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * Download Zip File Here:
 * Enter Password And Type `Python3 Da-Bomb.py` DiCMD
 * And if successful, please type `python3 console.py`
-
-![1](http://docs.google.com/uc?export=open&amp;id=1WLyCHx0-8h72LbmEcqEtyBDNpyfPnXwe)
 
 
 ### Download, setup, and usage For Android

@@ -1,0 +1,3 @@
+#!/bin/sh
+cd Bin/assets/
+python3 Da-Bomb.py

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp -r File/Linux ../../
+cp -r File/Banner ../../
+cp File/console ../../

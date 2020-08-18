@@ -94,6 +94,10 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ***
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66542572/90571009-1daa2a00-e1db-11ea-9e95-3ff6dc2bc2e7.png"  />
+</p>
+
 ### Download, setup, and usage For Windows
 * Harus Sudah `Install Python3` Didalam Sistem Operasi Kalian
 * Harus Sudah Install pip3 Dan Module Request Python

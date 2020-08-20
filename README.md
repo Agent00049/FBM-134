@@ -122,12 +122,11 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 ### Download, setup, and usage For Android
 * Download Aplikasi Termux Di playstore
 * Setelah Diinstall Buka Aplikasi Termux Lalu Ketik `pkg update` Enter - Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
-* Lalu Berikut nya ketik `pkg instal python3` Enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
-* python3 -m pip install && pip3 install requests
-* python3 -m pip install --upgrade pip 
+* Lalu Berikut nya ketik `pkg install python` Enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
+* pip3 install requests && python3 -m pip install --upgrade pip
 * setelah Selesai Ketik `pkg install git` enter Jika Ada Option Pertanyaan Ketik Y Tunggu Hingga Proses Selesai
 * setelah itu ketik `git clone https://github.com/byindosecurity/FBM-134.git`  enter Jika Ada Option Pertanyaan Ketik `Y` Tunggu Hingga Proses Selesai
-* setelah itu ketik `ls` untuk melihat Directory Jika Ada Muncul Bacaan FBM-134 ketik cd FBM-134 Lalu Enter
+* setelah itu ketik `ls` untuk melihat Directory Jika Ada Muncul Bacaan FBM-134 ketik `cd FBM-134` Lalu Enter
 * setelah Itu jika Sudah Benar Silahkan Ketik `python3 Da-Bomb.py` Untuk Menginstall Nya ! 
 * Lalu Masukan Nama sistem Operasi Yang Sedang Kalian Gunakan!
 * Jika Sudah Berhasil DIinstall Silahkan Kalian Ketik `chmod +x console` Lalu Setelah Itu Ketik `./console` Dan Enter!
@@ -140,15 +139,14 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 ### Download, setup, and usage For Android
 * Download the Termux application in the playstore
 * After Installed Open the Termux Application Then Type `pkg update` Enter - If There is an Option Question Type` Y` Wait Until the Process is Complete
-* Then in the next type `pkg instal python3` Enter If there is an option, type Y Wait until the process is complete
-* python3 -m pip install && pip3 install requests
-* python3 -m pip install --upgrade pip 
+* Then in the next type `pkg install python` Enter If there is an option, type Y Wait until the process is complete
+* pip3 install requests && python3 -m pip install --upgrade pip
 * After Finish Type `pkg install git` enter If there is an option, type Y Wait until the process is complete
-* after that type `git clone https: // github.com / byindosecurity / FBM-134.git` enter If there is an option, type` Y` wait until the process is complete
-* after that, type `ls` to see the Directory. If there is a reading of FBM-134, type cd FBM-134 then Enter
+* after that type `git clone https://github.com/byindosecurity/FBM-134.git` enter If there is an option, type` Y` wait until the process is complete
+* after that, type `ls` to see the Directory. If there is a reading of FBM-134, type `cd FBM-134` then Enter
 * After that, if it's correct, please type `python3 Da-Bomb.py` to install it!
 * Then enter the name of the operating system you are currently using!
-* If It Has Been Installed Successfully, Please Type `chmod + x console` Then After That Type`. / Console` And Enter!
+* If It Has Been Installed Successfully, Please Type `chmod +x console` Then After That Type`./console` And Enter!
 
 ### EXIT [ ? ]
 * Tutorial Cara Menggunakan Tools Nya Bisa Kalian Check Disini : https://shorturl.at/pBEL5

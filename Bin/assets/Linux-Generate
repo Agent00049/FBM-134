@@ -167,5 +167,6 @@ rm Da-Bomb.py
 cd ../../
 rm Da-Bomb.py
 rm -r os
+rm -r Windows-Generate.zip
 cd Bin
 rm -r assets

@@ -74,7 +74,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ### Download, setup, and usage For Linux
 * apt-get update && apt instal git
-* python3 -m pip install && pip3 install requests
+* pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git 
 * Lalu Jika sudah cd FBM-134 Dan python Da-Bomb.py
@@ -84,7 +84,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 
 ### Download, setup, and usage For Linux
 * apt-get update && apt installs git
-* python3 -m pip install && pip3 install requests
+* pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git
 * Then if you have cd FBM-134 and python Da-Bomb.py

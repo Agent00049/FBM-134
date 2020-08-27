@@ -202,6 +202,7 @@ def brute_random_attack():
                     Generate_account_pass = open(name_save_result,"w")
                     Generate_account_pass.write(os.linesep.join(save_result))
                     Generate_account_pass.close()
+		    os.system("cp Generate/Account_attack.txt ../../../../Generate")
                 else:
                     _________succesno += 1
                     print(colors.LightRed + "[*] " + colors.LightRed + 'EXPLOIT ' + colors.Green + ": FAILE! [" + colors.LightRed + str(_________succesno) + colors.LightGreen + ':' + str(accountno____) + ']- %s -[Discarded In The Trash!]' %(attack_list) )

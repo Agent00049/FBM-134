@@ -67,8 +67,7 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * apt install python3 && pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git 
-* Lalu Jika sudah cd FBM-134 Dan python Da-Bomb.py
-* Masukan Nama Sistem Operasi Kalian Untuk Install
+* Lalu Jika sudah cd FBM-134 Dan python Da-Bomb
 * Dan Jika Sudah Berhasil Install Silahkan Kalian Ketik `chmod +x console` 
 * Lalu Setelah Itu Ketik `./console` Dan Enter!
 
@@ -83,10 +82,9 @@ Used To Hack Facebook Accounts Here: https://rb.gy/wjtavj
 * apt install python3 && pip3 install requests
 * python3 -m pip install --upgrade pip 
 * git clone https://github.com/byindosecurity/FBM-134.git
-* Then if you have cd FBM-134 and python Da-Bomb.py
-* Enter your operating system name to install
+* Then if you have cd FBM-134 and python Da-Bomb
 * And if you have successfully installed, please type `chmod + x console`
-* Then After That Type `. / Console` And Enter!
+* Then After That Type `./Console` And Enter!
 
 ***
 
